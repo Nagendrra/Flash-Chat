@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929688971132",
+    "firebase_url": "https://flash-chat-248bf.firebaseio.com",
+    "project_id": "flash-chat-248bf",
+    "storage_bucket": "flash-chat-248bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929688971132:android:ddd6da87275d4f62caa6f9",
+        "android_client_info": {
+          "package_name": "nagendrra.com.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929688971132-4sj2qrv396avqp1fj8b08r50rjmg0ufm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxilOqospMRbOFzTakhumVYULjWzSGJHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929688971132-4sj2qrv396avqp1fj8b08r50rjmg0ufm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
